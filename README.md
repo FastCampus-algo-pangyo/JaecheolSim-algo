@@ -7,5 +7,6 @@
  [1025 백준 풀이](https://blog.naver.com/wocjf0513/223162543183)
 <br>
 4일차: 1027, 1021 <br>
-
+ [1027 백준 풀이](https://blog.naver.com/wocjf0513/223165809754)
+<br>
 
