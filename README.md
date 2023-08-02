@@ -15,5 +15,10 @@
 6일차: 1030 <br>
  [1030 백준 풀이](https://blog.naver.com/wocjf0513/223167460188)
 <br>
-
+7일차: 못 품
+<br>
+8일차: 1138 
+<br>
+ [1038 백준 풀이](https://blog.naver.com/wocjf0513/223172725202)
+<br>
 
