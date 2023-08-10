@@ -24,7 +24,9 @@
 9일차: 17298 <br>
  [17298 백준 풀이](https://blog.naver.com/wocjf0513/223173922533) <br>
 10일차: 2812 <br>
-11일차: 17140 
- [17140 백준 풀이](https://wocjf0513.github.io/%EB%B0%B1%EC%A4%80%2017140/2023/08/09/%EB%B0%B1%EC%A4%80.html)
+11일차: 17140 <br>
+ [17140 백준 풀이](https://wocjf0513.github.io/%EB%B0%B1%EC%A4%80%2017140/2023/08/09/%EB%B0%B1%EC%A4%80.html)<br>
+12일차: 1082 <br>
+ [1082 백준 풀이] (https://blog.naver.com/wocjf0513?Redirect=Write&categoryNo=32) <br>
 
 
