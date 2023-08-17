@@ -28,5 +28,5 @@
  [17140 백준 풀이](https://wocjf0513.github.io/%EB%B0%B1%EC%A4%80%2017140/2023/08/09/%EB%B0%B1%EC%A4%80.html)<br>
 12일차: 1082 <br>
  [1082 백준 풀이] (https://blog.naver.com/wocjf0513?Redirect=Write&categoryNo=32) <br>
-
-
+13일차: 17141 <br>
+ [17141 백준 풀이] (https://blog.naver.com/wocjf0513/223186140351) <br>
