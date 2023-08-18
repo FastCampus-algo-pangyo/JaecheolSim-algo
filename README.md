@@ -30,3 +30,4 @@
  [1082 백준 풀이] (https://blog.naver.com/wocjf0513?Redirect=Write&categoryNo=32) <br>
 13일차: 17141 <br>
  [17141 백준 풀이] (https://blog.naver.com/wocjf0513/223186140351) <br>
+14일차: 12919 <br>
