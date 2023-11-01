@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Yanolja_3 {
 
     public class Team implements  Comparable<Team>{
         int teamNum;
@@ -67,10 +67,10 @@ class Solution {
 
     }
 
-    public static void main(String[] args) {
-        Solution sol=new Solution();
-        sol.sovle(8, new int[]{0,0,3,2,1,1,0,0});
-    }
+//    public static void main(String[] args) {
+//        Solution sol=new Solution();
+//        sol.sovle(8, new int[]{0,0,3,2,1,1,0,0});
+//    }
 
 
 
