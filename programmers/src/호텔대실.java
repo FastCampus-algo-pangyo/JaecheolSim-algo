@@ -1,9 +1,10 @@
+package programmers.src;
 
 import java.time.LocalTime;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class Solution {
+public class 호텔대실 {
     class TimeSchedule{
         String startTime;
         String endTime;

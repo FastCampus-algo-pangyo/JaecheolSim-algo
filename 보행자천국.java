@@ -1,4 +1,4 @@
-class Solution {
+class 보행자천국 {
     int MOD = 20170805;
     static int Y리미트;
     static int X리미트;
@@ -70,10 +70,6 @@ class Solution {
         return 0;
     }
 
-    public static void main(String[] args) {
-        Solution sol=new Solution();
-        System.out.println(sol.solution(3,	6,	new int[][]{{0, 2, 0, 0, 0, 2}, {0, 0, 2, 0, 1, 0}, {1, 0, 0, 2, 2, 0}}));
-    }
 
     //가능한 경로 수를 MOD로 나눈 나머지 값을 출력
     /*
